@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dalesh Patle 👋
 
-<!--
-**daleshpatle/daleshpatle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Design Verification Engineer** | UVM • SystemVerilog • AMBA (AXI, AHB, APB, CHI) | M.Tech, IIT Guwahati | Bangalore, India
 
-Here are some ideas to get you started:
+I verify complex digital designs for a living, and I build production-quality IP and verification environments to sharpen my craft. I care about the details that separate working code from correct silicon — metastability, race conditions, and protocol corner cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [SPI Controller IP](https://github.com/dalesh8000/spi-controller-ip) | Multi-clock-domain design with rigorous CDC architecture — synchronized commit pulses, event CDC, handshake crossings, full spec documentation |
+| [Asynchronous FIFO](https://github.com/dalesh8000/async-fifo-cdc) | Gray-code pointer CDC, simulation-verified cycle-accurate documentation |
+| [32-bit RISC Processor](https://github.com/dalesh8000/Design-of-a-32-bit-Processor-based-on-RISC-architecture-using-Verilog) | RTL design of a RISC-architecture processor in Verilog |
+
+## 🛠️ Stack
+
+`SystemVerilog` `UVM` `Verilog` `SVA` `AXI` `AHB` `APB` `CHI/ACE` `QuestaSim` `Xilinx Vivado` `Python` `C/C++`
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/dalesh-patle-134b80232) · Open to Design Verification opportunities
