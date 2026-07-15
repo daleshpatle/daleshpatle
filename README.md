@@ -8,9 +8,9 @@ I verify complex digital designs for a living, and I build production-quality IP
 
 | Project | What it demonstrates |
 |---|---|
-| [SPI Controller IP](https://github.com/dalesh8000/spi-controller-ip) | Multi-clock-domain design with rigorous CDC architecture — synchronized commit pulses, event CDC, handshake crossings, full spec documentation |
-| [Asynchronous FIFO](https://github.com/dalesh8000/async-fifo-cdc) | Gray-code pointer CDC, simulation-verified cycle-accurate documentation |
-| [32-bit RISC Processor](https://github.com/dalesh8000/Design-of-a-32-bit-Processor-based-on-RISC-architecture-using-Verilog) | RTL design of a RISC-architecture processor in Verilog |
+| [SPI Controller IP](https://github.com/daleshpatle/spi-controller-ip) | Multi-clock-domain design with rigorous CDC architecture — synchronized commit pulses, event CDC, handshake crossings, full spec documentation |
+| [Asynchronous FIFO](https://github.com/daleshpatle/async-fifo-cdc) | Gray-code pointer CDC, simulation-verified cycle-accurate documentation |
+| [32-bit RISC Processor](https://github.com/daleshpatle/32bit-RISC-Processor) | RTL design of a RISC-architecture processor in Verilog |
 
 ## 🛠️ Stack
 
